@@ -1,4 +1,4 @@
-# PhoneClassifier
+# Phone/Face/Eye Classifier
 A haar cascade classifier that can detect smart phones, as well as faces and eyes from a live feed
 Personally made the smart phone haar cascade, while the face and eye haar cascades are Opencv's products
 
