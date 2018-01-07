@@ -1,7 +1,6 @@
 import urllib.request
 import cv2
-import numpy as np
-import os
+
 
 def store_raw_images():
     neg_links="http://www.image-net.org/api/text/imagenet.synset.geturls?wnid=n14564779"
