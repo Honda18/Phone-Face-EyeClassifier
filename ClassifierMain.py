@@ -19,7 +19,7 @@ while True:
     #Use classifier to detect faces
     faces=face_cascade.detectMultiScale(gray, 1.3, 5)
 
-    phones=phone_cascade.detectMultiScale(gray, 3, 5)
+    phones=phone_cascade.detectMultiScale(gray, 3, 9)
 
 
     for (x,y,w,h) in phones:
